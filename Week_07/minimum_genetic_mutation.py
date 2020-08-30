@@ -48,3 +48,4 @@ if __name__ == '__main__':
     end = "AACCGGTA"
     bank = ["AACCGGTA"]
     print(sol.minMutation(start, end, bank))
+    
